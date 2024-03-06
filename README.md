@@ -24,5 +24,7 @@ The target value is encoded as a string of numbers in an exponential style, repr
 
 ## Results
 
-Using the T5-small model, this approach achieved [INSERT RESULT] on the Kaggle competition, ranking [INSERT RANK]. Despite the constraints, this result is impressive and showcases the potential of language model-based regression models for tabular data prediction tasks.
+Using the T5-small model, this approach achieved 0.17456 on the Kaggle competition, ranking 3121/4248. Given that I used only 20 columns out of 70 columns, this result is quite impressive and showcases the potential of language model-based regression models for tabular data prediction tasks.
+
+<img width="938" alt="ranking_pic" src="https://github.com/ayumu0622/LLM-Based-Regressor/assets/67722808/de5097e7-a602-4067-a7a1-70748762f845">
 
