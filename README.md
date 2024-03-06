@@ -1,6 +1,6 @@
 # Large Language Model Regressor
 
-This repository presents a simplified version of the paper replication for the research outlined in "OmniPred: Language Models as Universal Regressors" ([link to paper](https://arxiv.org/abs/2402.14547)). In this project, I adapt the concept for a Kaggle competition focused on housing price prediction from tabular data ([Kaggle competition link](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview)).
+This repository presents a simplified version of the paper replication for the research outlined in "OmniPred: Language Models as Universal Regressors" ([link to paper](https://arxiv.org/abs/2402.14547)). In this project, I fine-tuned pretrained T5 model using housing price prediction table data to solve regression task ([Kaggle competition link](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview)).
 
 ## Implementation Details
 
